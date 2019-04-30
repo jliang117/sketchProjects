@@ -1,0 +1,3 @@
+# sketchProjects
+
+A place for projects created using sketch, let's see how git handles these files...
